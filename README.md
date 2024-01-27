@@ -12,6 +12,9 @@ Transfer Learning Models: Utilizing pre-trained models such as EfficientNet and 
 Feature Engineering: Incorporating metadata and image features to create a comprehensive feature set for training.
 Model Ensemble: Combining predictions from multiple models to improve accuracy.
 Hyperparameter Tuning: Fine-tuning model parameters to optimize performance.
+![image](https://github.com/amubits/Deep-Learning-for-Pet-Image-Popularity-prediction/assets/151084921/35b88027-d3b0-4b0f-91fa-63d4fb20325d)
+
+![image](https://github.com/amubits/Deep-Learning-for-Pet-Image-Popularity-prediction/assets/151084921/0316383b-357f-4517-a0d8-3ed95756b0c3)
 
 ## Key Learnings
 The inclusion of metadata significantly improves model performance.
@@ -22,20 +25,8 @@ Hyperparameter tuning is crucial for achieving optimal model performance.
 ## Final Results
 Our final submission achieved a remarkable RMSE of 17.09 on the Kaggle leaderboard, demonstrating the effectiveness of our approach.
 
-## Appendix & References
-For a deeper understanding of the concepts and models used in this project, refer to the following resources:
+![image](https://github.com/amubits/Deep-Learning-for-Pet-Image-Popularity-prediction/assets/151084921/68bc5880-58dd-4246-b3db-6ab650aa086f)
 
-ResNets: Why Do They Perform Better than Classic ConvNets? Conceptual Analysis
-
-EfficientNet and its Performance Comparison with Other Transfer Learning Networks
-
-Improved image super-resolution by Support Vector Regression
-
-Data augmentation for improving deep learning in image classification problem
-
-Top 4 pre-trained models For Image Classification
-
-Pytorch Image models
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
