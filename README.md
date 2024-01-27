@@ -26,10 +26,15 @@ Our final submission achieved a remarkable RMSE of 17.09 on the Kaggle leaderboa
 For a deeper understanding of the concepts and models used in this project, refer to the following resources:
 
 ResNets: Why Do They Perform Better than Classic ConvNets? Conceptual Analysis
+
 EfficientNet and its Performance Comparison with Other Transfer Learning Networks
+
 Improved image super-resolution by Support Vector Regression
+
 Data augmentation for improving deep learning in image classification problem
+
 Top 4 pre-trained models For Image Classification
+
 Pytorch Image models
 
 ## License
